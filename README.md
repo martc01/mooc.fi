@@ -1,4 +1,4 @@
 # MOOC.fi Java Programming I 2020
 
-University of Helsinki’s free massive open online course (MOOC)
+Repository to keep course materials and exercises from MOOC.fi at the University of Helsinki
 https://java-programming.mooc.fi/
